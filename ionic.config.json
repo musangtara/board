@@ -1,0 +1,8 @@
+{
+  "name": "board",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "54074e2f"
+}
